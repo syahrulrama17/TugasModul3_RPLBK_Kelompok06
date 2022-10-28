@@ -59,8 +59,9 @@ function App() {
 
   return (
     <div className="App">
+      <h2>Kelompok 06</h2>
+      <h3>Data Pemain Sepak Bola Dunia</h3>
       <Form onPraktikanHandler={PemainHandler} />
-
       <button className="console" onClick={submitHandler2}>Check Console</button>
     <div className="media-scroller">
     {
